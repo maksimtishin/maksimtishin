@@ -1,6 +1,11 @@
 # 🏄 Maksim Tishin
 
 **`A Cybersecurity enthusiast who loves tech`**
+
+I'm a student at Western Governors University studying Cybersecurity and Information Assurance. I have hands-on experience through many projects and my home lab, which I use daily to continue sharpening my skills and improving. I'm a Leader, a quick learner, and a team player, so I get along with people very well.
+
+
+
 <!--
 **maksimtishin/maksimtishin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
