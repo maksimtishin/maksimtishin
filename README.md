@@ -21,7 +21,7 @@ I'm a student at Western Governors University studying Cybersecurity and Informa
 
 ### 1. Home Lab
 
-  I started with a Raspberry Pi 5 and learned a lot about Linux and how to use the terminal. Everything from navigating the terminal to file or user management. I know the different package managers and Linux distros, the importance of self-hosting services for privacy, and useful tools for exploiting vulnerabilities in other devices, like nmap. 
+  I started with a Raspberry Pi 5 and learned a lot about Linux and how to use the terminal. Everything from navigating the terminal to file or user management. I know the different package managers and Linux distros, and the importance of self-hosting services for privacy.
 
 ### 2. Linux Administration
 
@@ -29,7 +29,7 @@ I'm a student at Western Governors University studying Cybersecurity and Informa
 
 ### 3. Wazuah SIEM
 
-  Setting up a Wazuah SIEM to monitor and log devices.
+  How to set up a SIEM for monitoring other devices on the network:
 
 https://github.com/maksimtishin/SIEM-Wazuah-/tree/main
 
