@@ -5,31 +5,32 @@
 I'm a student at Western Governors University studying Cybersecurity and Information Assurance. I have hands-on experience through many projects and my home lab, which I use daily to continue sharpening my skills and improving. I'm a Leader, a quick learner, and a team player, so I get along with people very well.
 
 ## Experience:
-(Tech Support)
+
+- Created a home lab for self-hosting and learning new software.
 - Assisted friends & family with technical issues.
+- Set up remote access via VPN to avoid port forwarding.
+- Troubleshot software and devices.
 - Built computers and set up workstations.
-- Reimaged computers and installed debloated Windows.
+- Reimaged computers and debloated Windows.
 - Undervolted hardware (CPU/GPU) for better performance.
 - Updated older devices and their drivers to mitigate vulnerabilities.
-
-(Management)
-
-- Windows/Linux administration via PowerShell/Linux commands.
-- 
+- Windows/Linux administration via PowerShell/Bash commands
 
 
+## Projects:
 
-<!--
-**maksimtishin/maksimtishin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 1. Home Lab
 
-Here are some ideas to get you started:
+  I started with a Raspberry Pi 5 and learned a lot about Linux and how to use the terminal. Everything from navigating the terminal to file or user management. I know the different package managers and Linux distros, the importance of self-hosting services for privacy, and useful tools for exploiting vulnerabilities in other devices, like nmap. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2. Linux Administration
+
+  I spent a lot of time practicing Linux commands, doing things like permission management, creating files and directories, adding or deleting users, updating and installing new software.
+
+### 3. Wazuah SIEM
+
+  Setting up a Wazuah SIEM to monitor and log devices.
+
+https://github.com/maksimtishin/SIEM-Wazuah-/tree/main
+
+  
