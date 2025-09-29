@@ -4,6 +4,19 @@
 
 I'm a student at Western Governors University studying Cybersecurity and Information Assurance. I have hands-on experience through many projects and my home lab, which I use daily to continue sharpening my skills and improving. I'm a Leader, a quick learner, and a team player, so I get along with people very well.
 
+## Experience:
+(Tech Support)
+- Assisted friends & family with technical issues.
+- Built computers and set up workstations.
+- Reimaged computers and installed debloated Windows.
+- Undervolted hardware (CPU/GPU) for better performance.
+- Updated older devices and their drivers to mitigate vulnerabilities.
+
+(Management)
+
+- Windows/Linux administration via PowerShell/Linux commands.
+- 
+
 
 
 <!--
