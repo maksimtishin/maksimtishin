@@ -1,6 +1,6 @@
 # 🏄 Maksim Tishin
 
-**'A Cybersecurity enthusiast'**
+**A Cybersecurity enthusiast**
 <!--
 **maksimtishin/maksimtishin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
