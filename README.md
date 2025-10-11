@@ -37,8 +37,6 @@ I'm a student at Western Governors University studying Cybersecurity and Informa
 https://github.com/maksimtishin/SIEM-Wazuah-/tree/main
 
 ### 4. Hands-on Hacking
-![alt text](image=https://github.com/maksimtishin/maksimtishin/blob/main/Screenshot%202025-10-11%20183022.png)
-
   I practiced hacking legally with a game called "Grey Hack."
 
 https://github.com/maksimtishin/GreyHack/blob/main/README.md
