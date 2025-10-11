@@ -35,4 +35,4 @@ https://github.com/maksimtishin/SIEM-Wazuah-/tree/main
 
 ### 4. Red Hat Practice with "Grey Hack" hacking game
 
-  
+https://github.com/maksimtishin/GreyHack/blob/main/README.md
