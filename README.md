@@ -33,4 +33,6 @@ I'm a student at Western Governors University studying Cybersecurity and Informa
 
 https://github.com/maksimtishin/SIEM-Wazuah-/tree/main
 
+### 4. Red Hat Practice with "Grey Hack" hacking game
+
   
