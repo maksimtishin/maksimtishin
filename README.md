@@ -12,6 +12,9 @@ I'm a student at Western Governors University studying Cybersecurity and Informa
 - Troubleshot software and devices.
 - Built computers and set up workstations.
 - Reimaged computers and debloated Windows.
+- Experienced in preparing and formatting USB drives for OS installations, recovery media, and multimedia compatibility (FAT32, exFAT, NTFS)
+- Knowledgeable in file system management and device compatibility troubleshooting.
+- Skilled in creating bootable USB media for Windows installation and hardware diagnostics
 - Undervolted hardware (CPU/GPU) for better performance.
 - Updated older devices and their drivers to mitigate vulnerabilities.
 - Windows/Linux administration via PowerShell/Bash commands
