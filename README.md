@@ -38,6 +38,10 @@ https://github.com/maksimtishin/SIEM-Wazuah-/tree/main
 
 ### 4. Hands-on Hacking
   I practiced hacking legally with a game called "Grey Hack."
+  
+<img width="1432" height="317" alt="Image" src="https://github.com/user-attachments/assets/4a119ddc-6f11-4a7a-9dfe-b1760c084a16" />
+
+
 
 https://github.com/maksimtishin/GreyHack/blob/main/README.md
 
