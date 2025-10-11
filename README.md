@@ -49,8 +49,12 @@ https://github.com/maksimtishin/GreyHack/blob/main/README.md
 
 I created a custom XML file to remove bloatware that slows down Windows and bypassed the Microsoft account requirement. Formatted the bootable USB with "Rufus" and experienced using different file systems to install Windows on a regular-built desktop and Dell laptops.
 
+<img width="50%" height="660" alt="Image" src="https://github.com/user-attachments/assets/044fc8dc-7354-4f8e-adf2-47fc41d5b952" />
+
 ### 6. Formatted USBs to work in the car
 
 A relative was having issues with a USB, saying it was not detected in the car when trying to watch movies. I proceeded to research and analyze the situation. I found out that the USB that was not working had the exFAT file system, while a USB that did work had FAT32. I formatted the USB to FAT32 and moved all the files over safely. Which fixed her issue, and the USB is now detected by the vehicle.
+
+<img width="40%" height="515" alt="Image" src="https://github.com/user-attachments/assets/6fa17f09-54df-48a4-b59d-98163c0e8953" />
 
 
