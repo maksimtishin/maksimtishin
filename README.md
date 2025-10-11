@@ -29,10 +29,12 @@ I'm a student at Western Governors University studying Cybersecurity and Informa
 
 ### 3. Wazuah SIEM
 
-  How to set up a SIEM for monitoring other devices on the network:
+  I set up a SIEM for monitoring other devices on the network:
 
 https://github.com/maksimtishin/SIEM-Wazuah-/tree/main
 
-### 4. Red Hat Practice with "Grey Hack" hacking game
+### 4. Hands-on Hacking
+
+  I practiced hacking legally with a game called "Grey Hack."
 
 https://github.com/maksimtishin/GreyHack/blob/main/README.md
