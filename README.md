@@ -57,4 +57,12 @@ A relative was having issues with a USB, saying it was not detected in the car w
 
 <img width="40%" height="515" alt="Image" src="https://github.com/user-attachments/assets/6fa17f09-54df-48a4-b59d-98163c0e8953" />
 
+### 7. Upgraded the computer's network speed & shared connection to another
+
+I have 2gb internet and noticed my PC is only reaching 1gb speeds for the download and upload, which led me to buy a 2.5gb PCIE network interface card, which bypassed my motherboard's limited 1gb speed. Then I had another device that needed an ethernet connection. Instead of buying a 2.5gb switch, I shared my Ethernet connection to the motherboard's NIC, which allowed me to plug my second PC into it and also have a connection without spending extra money on a new switch. 
+
+To do this, go into network settings and into properties of your main NIC, which has an internet connection. Then, go into the sharing tab - check allow other network users to connect through this computer's internet connection, followed by pressing the drop down menu and selecting your NIC that has the internet connection. Boom! You may now use your other NIC to connect another device to the internet.
+
+<img width="40%" height="463" alt="Image" src="https://github.com/user-attachments/assets/0c6bb7ff-dd54-4db7-a22e-b4c5745f41ef" />
+
 
