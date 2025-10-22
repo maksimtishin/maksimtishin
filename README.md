@@ -43,7 +43,6 @@ https://github.com/maksimtishin/SIEM-Wazuah-/tree/main
 
 
 
-https://github.com/maksimtishin/GreyHack/blob/main/README.md
 
 ### 5. Debloated Windows 11 install
 
