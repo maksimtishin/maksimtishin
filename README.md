@@ -68,6 +68,14 @@ To do this, go into network settings and into properties of your main NIC, which
 
 I have 2gb internet, but I noticed that I'm only getting around 300 Mbps download speed on my computer using Ethernet, and even my wifi speed is faster. I contacted the ISP and wasted many hours trying to resolve this. They sent me not one but TWO replacement routers, one having the same issue and the other not even being able to connect to the internet. After lots of frustration, I took matters into my own hands and started researching. I figured early on that there is a MAC address binding to the modem, which is why I couldn't get internet on any other router besides the one provided by the ISP. So I found the WAN interface's MAC address and copied it over to my own router, which allowed me to connect to the internet. The download speeds instantly jumped up close to 1 GB, since this router is limited to 1 GB, but that proved my hypothesis of the ISP router limiting my speeds over Ethernet. Soon, I'll be getting a 2.5 G router, which will support my internet speeds completely.
 
+One more issue I was facing was when playing around with the cli I tested different commands hoping this would fix my download speed before trying another router. This resulted in a slower upload speed which dropped from close to 2500 Mbps to around 220 Mbps. After fixing the download speed I knew that there was an issue with my computers nework configs because I also tested another laptop which had fast download and upload speed on the new router. Then reaserching further these are the commands I inputed that fixed the slow speed completely, even making the download speed faster as well.
+
+netsh int tcp set global autotuninglevel=normal - When disabled, Windows choked outgoing ACKs, cutting upload
+netsh int tcp set global rss=enabled - When off, one core gets overwhelmed → slow upload
+netsh int tcp set global chimney=enabled - When off, CPU handled all segmentation/checksums
+netsh int tcp set global ecncapability=default - If forced off/on wrongly, can throttle throughput
+netsh int tcp set global timestamps=default - If disabled, some drivers miscalculate round-trip delay
+
 Some troubleshooting I did to identify the source of the problem was using different Ethernet cables and devices, as well as powering off the modem for 30 minutes, trying to release the DHCP lease, which didn't work, which is why I had to clone the MAC address onto my own router.
 
 
